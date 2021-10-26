@@ -12,3 +12,8 @@ For this project, the goal is tounderstand if a company should implement the new
 - Clean Messy Data
 - Basic Propability calculation
 - Hypthesis Testing
+
+
+# Credit
+
+Project was provided by Udacity
